@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--
+    CDDC39
+    1565C0
+
+    311B92
+
+    -->
+    <color name="colorPrimary">#311b92</color>
+    <color name="colorBreak">#4eee59</color>
+    <color name="homecolor">#8D6E63</color>
+    <color name="breakerPoint">#FF9800</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#ff4081</color>
+</resources>
